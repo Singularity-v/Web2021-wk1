@@ -78,7 +78,7 @@ li{
   flex-direction: column;
 }
 #fb_top a {
-  background: url("../img/Facebook.png");/*預設顯示圖片*/
+  background: url("/img/Facebook.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   background-size: 14px,14px;
@@ -86,12 +86,12 @@ li{
   width: 14px;/*圖片寬度*/
 }
 #fb_top a:hover {
-  background: url("../img/Facebook_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Facebook_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
 }
 #ig_top a {
 
-  background: url("../img/Instergram.png");/*預設顯示圖片*/
+  background: url("/img/Instergram.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   background-size: 14px,14px;
@@ -99,12 +99,12 @@ li{
   width: 14px;/*圖片寬度*/
 }
 #ig_top a:hover {
-  background: url("../img/Instergram_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Instergram_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
 }
 #tw_top a {
 
-  background: url("../img/Twitter.png");/*預設顯示圖片*/
+  background: url("/img/Twitter.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   background-size: 14px,14px;
@@ -112,12 +112,12 @@ li{
   width: 14px;/*圖片寬度*/
 }
 #tw_top a:hover {
-  background: url("../img/Twitter_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Twitter_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
 }
 #pin_top a {
 
-  background: url("../img/Pinterest.png");/*預設顯示圖片*/
+  background: url("/img/Pinterest.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   font-size: 0; 
@@ -126,7 +126,7 @@ li{
   width: 14px;/*圖片寬度*/
 }
 #pin_top a:hover {
-  background: url("../img/Pinterest_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Pinterest_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
 }
 .icon{
@@ -194,7 +194,7 @@ li{
 .wave{
   position: absolute;
   z-index: 3;
-  background-image: url(../img/img.png);
+  background-image: url(/img/img.png);
   width:40vw;
   height:29vw;
   background-repeat:no-repeat;
@@ -309,7 +309,7 @@ footer p{
 }
 
 #FB a {
-  background: url("../img/Facebook_about_f.png");/*預設顯示圖片*/
+  background: url("/img/Facebook_about_f.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   font-size: 0; 
@@ -318,13 +318,13 @@ footer p{
   width: 1.5vw;/*圖片寬度*/
 }
 #FB a:hover {
-  background: url("../img/Facebook_footer_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Facebook_footer_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
   background-size:  1.5vw, 1.5vw;
 }
 #IG a {
 
-  background: url("../img/Instergram_about_f.png");/*預設顯示圖片*/
+  background: url("/img/Instergram_about_f.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   font-size: 0; 
@@ -333,13 +333,13 @@ footer p{
   width: 1.5vw;/*圖片寬度*/
 }
 #IG a:hover {
-  background: url("../img/Instergram_footer_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Instergram_footer_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
   background-size:  1.5vw, 1.5vw;
 }
 #TW a {
 
-  background: url("../img/Twitter_about_f.png");/*預設顯示圖片*/
+  background: url("/img/Twitter_about_f.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   font-size: 0; 
@@ -348,13 +348,13 @@ footer p{
   width: 1.5vw;/*圖片寬度*/
 }
 #TW a:hover {
-  background: url("../img/Twitter_footer_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Twitter_footer_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
   background-size:  1.5vw, 1.5vw;
 }
 #PIN a {
 
-  background: url("../img/Pinterest_about_f.png");/*預設顯示圖片*/
+  background: url("/img/Pinterest_about_f.png");/*預設顯示圖片*/
   display: flex;
   background-repeat: no-repeat;
   font-size: 0; 
@@ -363,7 +363,7 @@ footer p{
   width: 1.5vw;/*圖片寬度*/
 }
 #PIN a:hover {
-  background: url("../img/Pinterest_footer_hovor.png"); /*滑鼠移過顯示圖片*/
+  background: url("/img/Pinterest_footer_hovor.png"); /*滑鼠移過顯示圖片*/
   background-repeat: no-repeat;
   background-size:  1.5vw, 1.5vw;
 }
